@@ -1,0 +1,76 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  background-image: linear-gradient( black, #FFCCEA);
+}
+
+h1{
+  color: #FFCCEA;
+  font-family: cursive;
+  margin: 45px;
+  font-size: 55px;
+  text-shadow: 2px 2px 5px white;
+  text-align: center;
+  border-radius:10px;
+  }
+
+#aboutme{
+  color: #FFCCEA;
+  font-family: cursive;
+  margin: 25px;
+  font-size: 55px;
+  text-shadow: 2px 2px 5px white;
+  text-align: center;
+  border-radius:10px;
+  }
+
+h3{
+  color:  #ff81c2;
+  font-family: cursive;
+  margin: 45px;
+  font-size: 35px;
+  text-align: center;
+  }
+
+h4{
+   font-size: 25px;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+}
+
+container{
+  border: solid 5px #FF1493;
+font-family: cursive;
+color: #E6CCB2
+}
+
+.row{
+  border: solid 5px black;
+}
+
+.month{
+  border: solid 5px #FFCCEA;
+  background-color: #DCDCDC;
+}
+
+ h2{
+   color:  #FFCCEA;
+   font-family: cursive;
+   margin: 45px;
+   font-size: 35px;
+   text-shadow: 2px 2px 5px black;
+   text-align: center;
+   }
+
+$carousel-indicator-width:           30px;
+$carousel-indicator-height:          3px;
+$carousel-indicator-hit-area-height: 10px;
+$carousel-indicator-spacer:          3px;
